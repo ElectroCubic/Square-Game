@@ -1,7 +1,9 @@
 # Square-Game
+Dodge the incoming Enemies and shoot them to gain points. Survive as long as possible. Bullets fire backwards.
+Red enemies worth 1 point, blue enemy worth 5 points.
 
 ## Controls:
-- **A or Left Arrow Key - Move Left**
-- **D or Right Arrow Key - Move Right**
-- **S or Down Arrow Key - Shoot Bullet**
+- **A - Move Left**
+- **D - Move Right**
+- **S - Shoot Bullet**
 - **Space - Jump**
